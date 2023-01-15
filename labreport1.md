@@ -7,7 +7,7 @@ In case I need to install VSCode on a different device, I am providing this link
 which will include instructions on installation: [VSCode](https://code.visualstudio.com/)
 
 Upon opening VSCode, my page looked like this:
-![Image](file:///Users/prestontran/Downloads/VSCode_open.png)
+![Image](VSCode_open.png)
 
 ---
 
@@ -18,7 +18,7 @@ VSCode, where I typed **ssh** followed by my CSE15L email address. When asked if
 connecting to the remote server, I entered *yes* and typed my password.
 
 After entering my password, my terminal looked like this:
-![Image](file:///Users/prestontran/Downloads/CS15LWI23Login.png)
+![Image](CS15LWI23Login.png)
 This means you have successfully logged in and connected to the CSE15L remote server!
 
 ---
@@ -30,4 +30,4 @@ to *linux* using **cd**. Next, I typed **ls** to list the contents of *linux* an
 directory again, this time to *cs15lwi23*. Finally, I typed **pwd** to print the absolute file path.
 
 This picture of my terminal shows all of the commands I used:
-![Image](file:///Users/prestontran/Downloads/CS15L-L1P5.png)
+![Image](CS15L-L1P5.png)
