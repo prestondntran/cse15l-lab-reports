@@ -4,7 +4,7 @@
 
 I have already installed VSCode in a previous class (CSE 8B), so I was able to skip to the next step. 
 In case I need to install VSCode on a different device, I am providing this link to VSCode's website,
-which will include instructions on installation: [Link](https://code.visualstudio.com/)
+which will include instructions on installation: [VSCode](https://code.visualstudio.com/)
 
 Upon opening VSCode, my page looked like this:
 ![Image](file:///Users/prestontran/Downloads/VSCode_open.png)
