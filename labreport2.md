@@ -86,5 +86,5 @@ in the array correctly.
 
 ## Part 3: New Concepts
 Something new that I've learned from lab is that you can use JUnit tests in order to identify bugs. I found that
-it is important to create multiple tests that each use different inputs, because some may be failure-inducing inputs 
+it is important to create multiple tests that each use different inputs because some may be failure-inducing inputs 
 that show symptoms of bugs in your code.
