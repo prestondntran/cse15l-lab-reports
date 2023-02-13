@@ -27,7 +27,7 @@ the relevance of a directory in searching for a specific topic: in this instance
 `berlitz1` is found to have files related to the topic of Los Angeles because there are 
 4 files in the directory that have `"LosAngeles"` in the file names.
 
-Source: [grep -c](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ## Command-Line Option 2: grep -i
 
@@ -82,7 +82,7 @@ contain the word history. Using this command allows the user to find files whose
 contain the search word but aren't capitalized like the names of other files (or vice 
 versa), such as the `Bermuda-history.txt` file shown above.
 
-Source: [grep -i](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ## Command-Line Option 3: grep -n
 
@@ -128,7 +128,7 @@ contain the string `"Budapest"` and the line numbers that they are located. Usin
 command can help the user to search large folders to find the location of files related 
 to specific topics, such as files that are about Budapest.
 
-Source: [grep -n](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ## Command-Line Option 4: grep -A n
 
@@ -174,4 +174,4 @@ Using this command allows the user to determine whether lines in the output are 
 search: in this case, only the second group of lines is relevant to the search of `"Batu Caves"`
 because the subsequent lines discuss the caves, unlike the other two groups of lines.
 
-Source: [grep -A n](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
