@@ -41,7 +41,7 @@ prestontran@Prestons-MacBook-Pro berlitz1 % grep -i "merchants" HistoryJapan.txt
         and a rigorous clamp-down on the merchants’ high life. There was no
 ```
 The `grep -i` command returns all of the lines in `HistoryJapan.txt` that contain the
-word "merchants", regardless of lowercase or uppercase. This can be helpful in finding 
+word merchants, regardless of lowercase or uppercase. This can be helpful in finding 
 lines that contain the search word but have the word capitalized, as shown above in the
 first two lines of the output.
 
