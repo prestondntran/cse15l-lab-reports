@@ -2,7 +2,7 @@
 
 This report improves upon the completion time of the CS Labs Done Quick activity by using bash scripts.
 
-## Part A: Setup for the Activity
+## Part A: Setting Up for the Activity
 
 ### Step 1: Writing Bash Scripts (Before Editing ListExamples)
 
@@ -32,3 +32,36 @@ into the remote server, as shown above. After this, the setup for the activity i
 
 ## Part B: Doing the Activity
 
+### Step 1: Logging into ieng6
+
+![Image](https://user-images.githubusercontent.com/86041345/224606827-9536b99e-ab4e-4938-9947-664dbe7dcac8.png)
+
+Keys pressed: `ssh <up><enter>`
+
+As in Lab Report 4, I logged into the remote server using `ssh` and pressing the up key to save time.
+
+### Step 2: Running the First Bash Script
+
+![Image](https://user-images.githubusercontent.com/86041345/224607328-8e476490-fbe9-477d-8f65-3a2f48cff834.png)
+
+Keys pressed: `bash b<tab>`
+
+To run `before.sh`, I typed `bash b` followed by the tab key to autocomplete and therefore save time.
+
+### Step 3: Editing the File
+
+![Image](https://user-images.githubusercontent.com/86041345/224607594-8732c5d8-56ff-418c-a952-782779671140.png)
+
+Keys pressed: `<control+v><up x 7><right x 12>`, `<backspace>2`, `<control+o><enter><control+x>`
+
+After running `before.sh`, the nano command will allow me to edit the `ListExamples.java` file. I complete
+the same steps as in Lab Report 4 to fix the bug.
+
+### Step 4: Running the Second Bash Script
+
+![Image](https://user-images.githubusercontent.com/86041345/224607988-7c952252-40c8-41f8-9df5-d537c5fbbe1e.png)
+
+Keys pressed: `bash a<tab>`
+
+Once edits are complete, I run `after.sh` by typing `bash a` followed by the tab key to autocomplete and
+therefore save time. The activity is finished after running this script.
